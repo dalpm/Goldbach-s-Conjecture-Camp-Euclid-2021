@@ -7,6 +7,9 @@ Also, we used Prime Number Theorem to look for lower bound and upper bound at th
 
 In "data2.npy", there is the possible ways to write every number n in 4 <= n <= 100000 as the sum of two prime numbers.
 
+For in-detail explanations, please check this document:
+https://drive.google.com/file/d/1QDIzaCsB42o8wWy6bwBmV-aV-X1kf2n2/view?usp=sharing
+
 Here are some examples of the plots we created:
 
 ![plot](https://user-images.githubusercontent.com/25318617/129219206-3cea79f4-d716-4c67-b59c-785cfd543328.png)
